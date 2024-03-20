@@ -1,6 +1,3 @@
-spring:
-  application:
-    name: Config-Defaul
 eureka:
   instance:
     prefer-ip-address: true
